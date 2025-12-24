@@ -1,0 +1,11 @@
+activity_id,name,organizer,date,type,points,criteria,evidence
+ACT001,Xuân tình nguyện,Đoàn trường,2025-12-28,tinh_nguyen,3,tinh_nguyen,Giấy xác nhận ngày công + tổng kết
+ACT002,Mùa hè xanh,Hội SV,2026-06-15,tinh_nguyen,5,tinh_nguyen,Xác nhận ngày công + khen thưởng (nếu có)
+ACT101,Workshop kỹ năng công dân toàn cầu,CLB Kỹ năng,2025-12-26,hoi_nhap,2,hoi_nhap,Chứng nhận hoàn thành khóa
+ACT102,Giao lưu sinh viên quốc tế,Phòng HTQT,2026-01-10,hoi_nhap,3,hoi_nhap,Giấy xác nhận tham gia giao lưu
+ACT103,Cuộc thi thuyết trình tiếng Anh,Khoa,2026-01-05,hoi_nhap,3,hoi_nhap,Giấy chứng nhận/giải thưởng (nếu có)
+ACT201,Giải chạy Sinh viên khỏe,Trung tâm TDTT,2026-01-03,the_luc,2,the_luc,Giấy xác nhận/giải phong trào
+ACT301,Cuộc thi NCKH sinh viên,Phòng KH&CN,2026-03-20,hoc_tap,5,hoc_tap,Quyết định/biên bản nghiệm thu/giải thưởng
+ACT302,Seminar viết bài báo & kỷ yếu,Khoa,2026-02-15,hoc_tap,3,hoc_tap,Minh chứng bài báo/kỷ yếu
+ACT401,Đội thi Olympic Mác–Lênin/HCM,Đoàn khoa,2026-01-18,dao_duc,3,dao_duc,Danh sách đội/giấy chứng nhận tham gia
+ACT402,Phong trào 'Người tốt việc tốt',Đoàn trường,2026-04-01,dao_duc,2,dao_duc,Quyết định/giấy khen cấp huyện/tỉnh+
